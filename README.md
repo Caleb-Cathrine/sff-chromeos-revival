@@ -31,11 +31,11 @@ Standard automated tools often encounter 404 errors or network timeouts. To ensu
 * Enabled **Guest Mode** to allow for shared family browsing and printing without compromising the main developer environment.
 
 ## 📸 Gallery
-*(Upload your photos to a folder named 'screenshots' in this repo to display them here)*
 
 | Setup Phase | Final Result |
 | :--- | :--- |
-| ![Account Setup](Chrome OS Sign up.jpg) | ![Desktop View](Chrome OS Installed.jpg) |
+(Chrome OS Sign up.jpg) |
+(Chrome OS Installed.jpg) |
 
 ## 🚀 Post-Install Optimization
 * **Linux Development Environment:** Enabled to support VS Code and Python.
