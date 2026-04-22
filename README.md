@@ -34,8 +34,7 @@ Standard automated tools often encounter 404 errors or network timeouts. To ensu
 
 | Setup Phase | Final Result |
 | :--- | :--- |
-(Chrome OS Sign up.jpg) |
-(Chrome OS Installed.jpg) |
+| ![Account Setup](Chrome%20OS%20Sign%20up.jpg) | ![Desktop View](Chrome%20OS%20Installed.jpg) |
 
 ## 🚀 Post-Install Optimization
 * **Linux Development Environment:** Enabled to support VS Code and Python.
